@@ -11,11 +11,11 @@ Designed as a portfolio project, it reflects industry-standard practices in data
 Design and implement a modern data warehouse to consolidate multi-source sales data and support downstream analytics.
 
 ####📌 Technical Specifications
--**Data Ingestion**: CSV imports from ERP and CRM systems
--**Quality Control**: Cleansing, type enforcement, and validation
--**Data Modeling**: Unified dimensional schema optimized for queries
--**Scope**: Snapshot-only processing; no SCD/historical data
--**Documentation**: Entity definitions and schema annotations for end users
+-**Data Ingestion**: CSV imports from ERP and CRM systems.
+-**Quality Control**: Cleansing, type enforcement, and validation.
+-**Data Modeling**: Unified dimensional schema optimized for queries.
+-**Scope**: Snapshot-only processing; no SCD/historical data.
+-**Documentation**: Entity definitions and schema annotations for end users.
 
 ### 📊🏢 BI Layer (Data Analysis)
 
