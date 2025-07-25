@@ -7,33 +7,33 @@ Designed as a portfolio project, it reflects industry-standard practices in data
 
 ### 📦🏢 Data Warehouse Build (Data Engineering)
 
-####🎯 Objective
+#### 🎯 Objective
 
 Design and implement a modern data warehouse to consolidate multi-source sales data and support downstream analytics.
 
-####📌 Technical Specifications
+#### 📌 Technical Specifications
 
--**Data Ingestion**: CSV imports from ERP and CRM systems.
+**Data Ingestion**: CSV imports from ERP and CRM systems.
 
--**Quality Control**: Cleansing, type enforcement, and validation.
+**Quality Control**: Cleansing, type enforcement, and validation.
 
--**Data Modeling**: Unified dimensional schema optimized for queries.
+**Data Modeling**: Unified dimensional schema optimized for queries.
 
--**Scope**: Snapshot-only processing; no SCD/historical data.
+**Scope**: Snapshot-only processing; no SCD/historical data.
 
--**Documentation**: Entity definitions and schema annotations for end users.
+**Documentation**: Entity definitions and schema annotations for end users.
 
 ### 📊🏢 BI Layer (Data Analysis)
 
-####🎯 Objective
+#### 🎯 Objective
 
 Develop SQL-based analytics to deliver insights on:
 
--**Customer Behavior**
+**Customer Behavior**
 
--**Product Performance**
+**Product Performance**
 
--**Sales Trends**
+**Sales Trends**
 
 Enables stakeholders with key business metrics for strategic decisions.
 
